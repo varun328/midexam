@@ -20,7 +20,7 @@ public class ArithmeticBase
         {
         Scanner sc =new Scanner(System.in);
         System.out.println("enter String");
-        String s= sc.next();
+        enum s= sc.next();
         switch (s.toUpperCase()) 
         {
             case "PLUS":
